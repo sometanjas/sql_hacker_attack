@@ -13,3 +13,5 @@ Your task is to create the school database and calculate the annual score.
 **Learning outcomes:**
 Get familiar with SQL commands, and work with csv files. 
 Import data from files, learn how to merge data from different tables, and study how to use various SQL commands.
+
+Here's the link to the project: https://hyperskill.org/projects/297
